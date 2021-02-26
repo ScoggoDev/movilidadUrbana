@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154984914323",
+    "project_id": "movilidad-urbana",
+    "storage_bucket": "movilidad-urbana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154984914323:android:bf8dc05a0ded34ef6b5c66",
+        "android_client_info": {
+          "package_name": "com.example.movilidadUrbana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154984914323-f36vt57qt0i81krn9a9ffmj93d5bo21g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMteiapFYCt1kRBhG00zyzl2TfpE902lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154984914323-f36vt57qt0i81krn9a9ffmj93d5bo21g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
